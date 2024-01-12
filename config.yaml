@@ -1,0 +1,17 @@
+cookie:
+  expiry_days: 90
+  key: random_signature_key
+  name: random_cookie_name
+credentials:
+  usernames:
+    demo1:
+      email: demo1@emergentq.ai
+      name: demo1
+      password: $2b$12$aNDa9II6iRuQS7etTjCsjeoHWGPhvbgM9xdCx3sW4reCt2g0CsnRC
+    demo2:
+      email: demo2@emergentq.ai
+      name: demo2
+      password: $2b$12$ZU0YJ5i4YyHOKfWqC.07V.tfBQWXKU9etrd1b4qwuUt/ZjCzI9kwq
+preauthorized:
+  emails:
+  - piyush@dataonique.com
